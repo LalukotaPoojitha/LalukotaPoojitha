@@ -16,7 +16,7 @@ Traveller lives the life, Tourists escapes the life!
 3. Azure Backup service
 4. Azure AI services
 5. chatbot
-6.Azure Role Based access Control(RBAC)
+6. Azure Role Based access Control(RBAC)
 # Problem Statement:
 In recent days after the pandemic, most of the population is showing interest on travelling. Whether it maybe any mode of transport, they are trying to book their travel mode in different applications for travel and hotels. So, we tried to create a one stop shop where we can plan our vacation in a single application. The best thing about this project is we can plan our diet once we reach the destination.
 # Project Description:
