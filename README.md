@@ -6,10 +6,10 @@ Traveller lives the life, Tourists escapes the life!
 3. GitHub Repository URL: 
 4. Industry : Travel
 # Roles and responsibilities
-1.Lalukota Poojitha (project management) :Manages the web development project.
-2.Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
-3.Mukkawar Kaushik (Documentation) :Responsible for managing the documentation process.
-4.Kadari Manjula (designed the project)
+1. Lalukota Poojitha (project management) :Manages the web development project.
+2. Nalika Vishal (Deployment) :Deployment and maintenance of project infrastructure.
+3. Mukkawar Kaushik (Documentation) :Responsible for managing the documentation process.
+4. Kadari Manjula (designed the project)
 # Azure services used:
 1. Azure blob storage
 2. Storage account
